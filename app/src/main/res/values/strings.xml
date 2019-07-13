@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">WeatherNewsApp</string>
+    <string name="txtView_Reg_title">Sign Up</string>
+    <string name="txt_User_Email">Enter email</string>
+    <string name="txt_Password">Enter password</string>
+    <string name="btn_SignUp">Sign Up</string>
+    <string name="txtView_logme">Already registered? Sign In</string>
+    <string name="txtView_Log_title">Sign In</string>
+    <string name="txt_log_email">Enter email</string>
+    <string name="txt_log_password">Enter password</string>
+    <string name="btn_login">Sign In</string>
+    <string name="txtView_signup">Don\'t have an account yet? Sign up here</string>
+    <string name="txtView_display_name">NULL</string>
+    <string name="txtView_pro_title">Large Text</string>
+    <string name="btn_logout">Logout</string>
+    <string name="title_activity_map">Map</string>
+    <string name="btn_weather">Weather</string>
+    <string name="btn_news">News</string>
+    <string name="btn_search">Search</string>
+    <string name="editText_location">Search for a location</string>
+    <string name="editText_search">Search</string>
+</resources>

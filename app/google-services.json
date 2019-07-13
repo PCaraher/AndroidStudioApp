@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "286728917909",
+    "firebase_url": "https://weathernewsapp.firebaseio.com",
+    "project_id": "weathernewsapp",
+    "storage_bucket": "weathernewsapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286728917909:android:8f41a9aa087a7be1",
+        "android_client_info": {
+          "package_name": "com.example.weathernewsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286728917909-pai4s6qt21lp2p0112989vane0144tts.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.weathernewsapp",
+            "certificate_hash": "6b9bcc2d2690b80181eb9acc957bbf75f75caca0"
+          }
+        },
+        {
+          "client_id": "286728917909-9o26b3h0i9p2dh0aoe9t6f1aap1ale0a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.weathernewsapp",
+            "certificate_hash": "db0d815ef0787b3e475c59ed1710e1d2b0f45192"
+          }
+        },
+        {
+          "client_id": "286728917909-6v0fjaf7t1ka0cbunnb6v7lhjeq1has2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-5CcCTdm3-hQhvKdZkMf9Ri73rJ3pvYE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286728917909-6v0fjaf7t1ka0cbunnb6v7lhjeq1has2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
